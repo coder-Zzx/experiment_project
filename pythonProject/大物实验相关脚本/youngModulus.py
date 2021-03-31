@@ -86,9 +86,9 @@ def main():
 
 if __name__ == '__main__':
     print('======================================================')
-    print('|  测定金属杨氏模量实验的数据处理脚本，一站式解决所有计算    |')
+    print('|  测定金属杨氏模量实验的数据处理脚本，一站式解决所有计算      |')
     print('|                         made by zzx                |')
-    print("----------------------------------------version 1.1--|")
+    print("----------------------------------------version 1.2--|")
     print('|  you can also find the code at the following URL:  |')
     print('|https://github.com/coder-Zzx/experiment_project.git |')
     print('======================================================')
